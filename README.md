@@ -1,4 +1,5 @@
 # CameraX-sample
 
-Capture image and save it.\n
+Capture image and save it.
+
 Capture video and save it.
